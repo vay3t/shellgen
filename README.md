@@ -3,11 +3,20 @@ revshell is a custom script that prints in prompt a lot of different reverse she
 
 # Supported
 - Linux
-- Windows PowerShell 
+- Windows PowerShell
+- PHP
 
 # Usage
+
+### revshell
 ```
 [!] usage: python revshell.py <IP> <PORT>
+```
+### webshell
+```
+[!] usage:
+    python webshell.py
+    python webshell.py <METHOD> <PASSWD>
 ```
 
 https://youtu.be/tSUJQ65pvCE
