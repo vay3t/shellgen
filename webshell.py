@@ -11,9 +11,9 @@ def php(shell):
     return [a,b,c,d,e,f]
 
 def help():
-	print("[!] usage:")
-  print("python "+sys.argv[0])
-  print("python "+sys.argv[0]+" <METHOD> <PASSWD>")
+    print("[!] usage:")
+    print("    python "+sys.argv[0])
+    print("    python "+sys.argv[0]+" <METHOD> <PASSWD>")
 
 # usage
 if len(sys.argv) == 3:
