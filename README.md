@@ -18,6 +18,3 @@
     python webshell.py
     python webshell.py <METHOD> <PASSWD>
 ```
-
-https://youtu.be/tSUJQ65pvCE
-
