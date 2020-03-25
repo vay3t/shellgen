@@ -7,20 +7,6 @@ Currently supports:
 
 # USAGE
 
-usage is quite simple, just run:
-
-$ revshell.py IP PORT
-
-
-You can also copy or create a simbolic link to your "bin" folder to execute it from any prompt 
-
-$ cp revshell.py /usr/local/bin/revshell
-
-	OR
-
-$ cp revshell.py /usr/bin/revshell
-
-check it out!
-
-https://youtu.be/tSUJQ65pvCE
-
+```
+python3 revshell.py <IP> <PORT>
+```
