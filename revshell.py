@@ -1,6 +1,6 @@
 #!/usr/bin/python
-#revshells is a tool to quickly print a collection of reverse shells usign diferent commands and languajes
-#by dplastico (thanks to vay3t for teh heads up)
+#revshells is a tool to quickly print a collection of reverse shells usign diferent commands and languages
+#by dplastico (thanks to vay3t for the heads up)
 # Mod by vay3t
 
 import sys
